@@ -15,4 +15,4 @@
 
 ## Examples
 
-![背景是五更琉璃](https://github.com/withoutcat/rainbowdrops/blob/master/examples/%E8%83%8C%E6%99%AF%E6%98%AF%E4%BA%94%E6%9B%B4%E7%90%89%E7%92%83.png)
+![背景是五更琉璃](https://raw.githubusercontent.com/withoutcat/rainbowdrops/master/examples/%E8%83%8C%E6%99%AF%E6%98%AF%E4%BA%94%E6%9B%B4%E7%90%89%E7%92%83.png)
