@@ -32,6 +32,11 @@
                 "label": "RainbowDrops",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rainbowdrops-color-theme.json"
+            },
+            {
+                "label": "RainbowDrops Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rainbowdrops-color-theme-italic.json"
             }
         ]
     }

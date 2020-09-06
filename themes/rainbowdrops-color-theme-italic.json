@@ -214,7 +214,7 @@
         "name": "Storage type",
         "scope": "storage.type",
         "settings": {
-            "fontStyle": "",
+            "fontStyle": "italic",
             "foreground": "#66D9EF"
         }
     }, {
@@ -228,7 +228,7 @@
         "name": "Inherited class",
         "scope": "entity.other.inherited-class",
         "settings": {
-            "fontStyle": "underline",
+            "fontStyle": "italic underline",
             "foreground": "#CDF668"
         }
     }, {
@@ -243,7 +243,7 @@
         "name": "Function argument",
         "scope": "variable.parameter",
         "settings": {
-            "fontStyle": "",
+            "fontStyle": "italic",
             // "foreground": "#FD971F"
             "foreground": "#79ABFF"
         }
@@ -279,7 +279,7 @@
         "name": "Library class/type",
         "scope": "support.type, support.class",
         "settings": {
-            "fontStyle": "",
+            "fontStyle": "italic",
             "foreground": "#66D9EF"
         }
     }, {
@@ -389,7 +389,7 @@
         "name": "Markdown Quote",
         "scope": "markup.quote.markdown",
         "settings": {
-            "fontStyle": "",
+            "fontStyle": "italic",
             "foreground": "#75715E"
         }
     }, {
@@ -414,7 +414,7 @@
         "name": "Markdown Emphasis",
         "scope": "markup.italic.markdown",
         "settings": {
-            "fontStyle": ""
+            "fontStyle": "italic"
         }
     }, {
         "name": "Markdown Punctuation Definition Link",
