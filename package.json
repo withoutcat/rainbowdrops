@@ -2,7 +2,7 @@
     "name": "theme-rainbowdrops",
     "displayName": "RainbowDrops",
     "description": "做给自己用的配色，个人非常喜欢，是基于以前eclipse上一个叫做rainbowdrops的配色",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/withoutcat/rainbowdrops.git"
