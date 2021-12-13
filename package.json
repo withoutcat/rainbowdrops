@@ -1,0 +1,44 @@
+{
+	"name": "theme-rainbowdrops",
+	"displayName": "RainbowDrops",
+	"description": "做给自己用的配色，个人非常喜欢，是基于以前eclipse上一个叫做rainbowdrops的配色",
+	"version": "2.0.3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/withoutcat/rainbowdrops.git"
+	},
+	"publisher": "WithOutCat",
+	"icon": "icon.png",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"keywords": [
+		"rainbow",
+		"rainbowdrops",
+		"rain",
+		"bow",
+		"theme",
+		"color",
+		"colorful",
+		"彩虹"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RainbowDrops",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rainbowdrops-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "778e8e88-c464-43b3-bad9-4b8e411f44e9",
+		"publisherId": "4f412d6b-6c33-49ca-ae38-45a96b482634",
+		"publisherDisplayName": "WithOutCat",
+		"installedTimestamp": 1632792767896
+	}
+}
